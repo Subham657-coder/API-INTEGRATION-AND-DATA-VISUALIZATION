@@ -19,7 +19,6 @@ After successfully retrieving the weather data, I focused on visualizing the inf
 This project helped me gain hands-on experience with real-world API usage and improve my skills in data extraction, processing, and visualization. I learned how to communicate with RESTful APIs, manage API keys securely, parse JSON responses, and transform raw data into insightful visual outputs. I also understood the importance of visualizing time-series data, especially when trying to communicate patterns or trends effectively. Overall, this task served as a solid foundation for the upcoming internship tasks and gave me a clear understanding of how different components — like API calls and data plotting — can come together in a single functional program. It was a rewarding experience that reinforced both my technical knowledge and my ability to build practical, user-focused solutions.
 
 #OUTPUT
-
 <img width="1914" height="997" alt="Image" src="https://github.com/user-attachments/assets/d97d6d03-b302-4899-95f1-b5c0646f5e27" />
 
 
