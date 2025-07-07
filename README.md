@@ -20,4 +20,6 @@ This project helped me gain hands-on experience with real-world API usage and im
 
 #OUTPUT
 
+<img width="1914" height="997" alt="Image" src="https://github.com/user-attachments/assets/d97d6d03-b302-4899-95f1-b5c0646f5e27" />
+
 
